@@ -1,0 +1,55 @@
+.footer
+{
+    display: flex;
+    justify-content: space-between;
+    position:fixed absolute;
+    bottom: 0;
+    height: 65px;
+    width: 97.9%;
+    color: white;
+    padding: 20px;
+    background-color: #282828;
+}
+
+.footer_left
+{
+flex:0.3;
+display: flex;
+align-items: center;
+color: white;
+max-width: 300px;
+}
+.footer_icon:hover,
+.footer_green:hover
+{
+transition: transform 0.3s ease-in-out;
+transform: scale(1.2) !important;
+}
+.footer_albumlogo
+{
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+    object-fit: contain;
+}
+.footer_middle
+{
+flex:0.4;
+color: white;
+display: flex;
+align-items: center;
+justify-content: space-between;
+max-width: 300px;
+padding: 0 100px;
+}
+
+.footer_right
+{
+flex:0.3;
+display: flex;
+align-items: center;
+justify-content: space-between;
+color: white;
+max-width: 300px;
+
+}
