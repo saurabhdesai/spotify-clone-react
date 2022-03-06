@@ -1,3 +1,6 @@
+ Live preview :  https://spotify-clone-8f621.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
